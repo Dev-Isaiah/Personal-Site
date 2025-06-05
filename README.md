@@ -8,4 +8,4 @@ Read through the site to find some information about me and who I am! You can co
  - [x] CSS
 
 ## Completed Project Link:
-https://devart1st.github.io/Personal-Site/
+https://dev-isaiah.github.io/Personal-Site/
